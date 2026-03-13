@@ -32,7 +32,10 @@ def print_fibonacci(n):
         a, b = b, a + b
 
 
+#-- Addnal code for testing purpose
 
+define_greet(name):
+    return f"Hello, {name}!"
 
 
 
