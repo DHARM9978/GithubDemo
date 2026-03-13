@@ -3,7 +3,7 @@
 #----Wednesday-------
 
 
-def print_hello_world(n):
+def p   rint_hello_world(n):
     for _ in range(n):
         print("Hello, World!")
 
@@ -32,13 +32,6 @@ def print_fibonacci(n):
         a, b = b, a + b
 
 
-#   It is adding for the github commit checking
-
-def odd_even(n):
-    if n % 2 == 0:
-        return f"{n} is Even"
-    else:
-        return f"{n} is Odd"
 
 
 
